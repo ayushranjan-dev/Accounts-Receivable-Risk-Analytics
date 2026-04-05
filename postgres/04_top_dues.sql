@@ -1,4 +1,4 @@
--- Highest outstanding balances (working-capital focus).
+-- Highest outstanding balances 
 
 SELECT
     client_id,
